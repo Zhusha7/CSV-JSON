@@ -1,0 +1,38 @@
+[
+  {
+    "Category": "Electronics",
+    "Products": [
+      {
+        "Product": "Laptop",
+        "Price": 1200,
+        "Quantity": 2
+      },
+      {
+        "Product": "Phone",
+        "Price": 800,
+        "Quantity": 5
+      },
+      {
+        "Product": "Monitor",
+        "Price": 300,
+        "Quantity": 3
+      },
+      {
+        "Product": "Headphones",
+        "Price": 150,
+        "Quantity": 6
+      },
+      {
+        "Product": "Keyboard",
+        "Price": 70,
+        "Quantity": 7
+      },
+      {
+        "Product": "Mouse",
+        "Price": 50,
+        "Quantity": 10
+      }
+    ],
+    "TotalValue": 9190
+  }
+]

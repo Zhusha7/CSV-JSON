@@ -1,0 +1,11 @@
+ID,Product,Category,Price,Quantity,Date
+1,Laptop,Electronics,1200,2,2024-03-15
+2,Phone,Electronics,800,5,2024-03-16
+3,Desk,Furniture,250,3,2024-03-16
+4,Chair,Furniture,100,4,2024-03-17
+5,Headphones,Electronics,150,6,2024-03-18
+6,Mouse,Electronics,50,10,2024-03-18
+7,Notebook,Stationery,5,20,2024-03-19
+8,Pen,Stationery,2,50,2024-03-19
+9,Monitor,Electronics,300,3,2024-03-20
+10,Keyboard,Electronics,70,7,2024-03-20
